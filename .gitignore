@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore local environment files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
